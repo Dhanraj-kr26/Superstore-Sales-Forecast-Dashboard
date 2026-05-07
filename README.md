@@ -22,6 +22,7 @@ To analyze sales performance and forecast future sales trends using time series 
 - Analyzed regional sales distribution
 
 ## Files Included
-- Power BI Dashboard (.pbix)
-- Dataset
-- Dashboard Screenshots
+- Project PowerBI (.pbix)
+- SuperStore_Sales_Dataset.csv
+- Dashboard.png
+- Sales Forecast Dashboard.png
